@@ -82,7 +82,7 @@ programming language used in the real world, with a vibrant online
 community.  It can be used to make web applications, program robotics
 projects, and has extensive use cases on DIY project platforms like
 the Raspberry Pi.  If you or your child has a real interest in coding,
-Python is capable, approachable language that you can use for almost 
+Python is a capable, approachable language that you can use for almost 
 any project.
 
 

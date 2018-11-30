@@ -1,5 +1,10 @@
 #!/usr/bin/python
 
+# Knockout2 - Step 2: Add blocking to the 'main' function
+# Now that we have a Boxer capable of blocking, we need
+# to make changes to the 'main' function to allow the player
+# and computer to block
+
 from __future__ import print_function
 
 import random

@@ -1,7 +1,11 @@
 #!/usr/bin/python
 
+# STEP 3 - Code the 'main' function to play the game
+# In this step we replace the 'main' function with code that runs the game
+
 from __future__ import print_function
 
+# We need to import the 'random' Python library in order to generate random numbers
 import random
 
 
@@ -76,7 +80,6 @@ def main():
         print("")
 
 
-# This is where the program actually starts running
 if __name__ == "__main__":
 
     # run the main function
